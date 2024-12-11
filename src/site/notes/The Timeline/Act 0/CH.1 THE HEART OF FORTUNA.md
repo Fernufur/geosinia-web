@@ -41,7 +41,10 @@ In seconds the body of the craft jolts and Azeal gets shaken loose from his chai
 
 *That immediately set them off, you could see their discomfort that they have to sit next to someone who they cant understand and can potentially burn and injure them with ease. I wouldn't blame them either.* 
 
-The two strangers reluctantly take their seats 
+The two strangers reluctantly take their seats being hesitant to get near Azeal. The worker attempts to start light conversation with the them to his failure, while Azeal zones out.
+
+"What's with those from Irene trying to taint everywhere else." The first stranger speaking in [[Languages/LN. Kaltor\|LN. Kaltor]] as to not be understood. "They can stay where they belong, they're dangerous to everyone else."
+"I mean yeah, they were just discovered recently. We don't know how they act." The second stranger nervously says. "They still structure themselves in tribes; they could be feral."
 
 ---
 
