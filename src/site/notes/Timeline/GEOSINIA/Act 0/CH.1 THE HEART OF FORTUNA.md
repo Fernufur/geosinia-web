@@ -71,7 +71,7 @@ The arm holding the craft starts to spin increasing in speed over time, the spin
 The Intershot exits the atmosphere and starts speeding up to reach a cruising speed, while blood starts flowing down the center corridor. He looks around the corner to see a crumpled mass of flesh sliding off the wall at the end of the hall. The worker wakes back up and seems to have forgotten about the two and Val.
 
 *Wait, where's the blood? the mass is gone too, how does that just disappear??*
-The corridor was now suddenly clean leaving no remnant of the corpses there previously. Azeal just wanting this trip to be over goes back to looking out of the window, as the view of Leukothea wanes [[Locations/2nd plane/Lux Nova\|Lux Nova]] comes into view.
+The corridor was now suddenly clean leaving no remnant of the corpses there previously. Azeal eventually goes back to looking out of the window after seemingly forgetting that something happened. As the view of Leukothea wanes [[Locations/2nd plane/Lux Nova\|Lux Nova]] comes into view.
 
 ---
 
