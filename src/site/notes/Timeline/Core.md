@@ -19,9 +19,10 @@ No matter what, find a reason to live.
 
 ##### Main story
 ---
-[[Timeline/GEOSINIA/Act 0/CH.0 DEATH\|CH.0 DEATH]]
+
 
 ###### ACT 0
+	[[Timeline/GEOSINIA/Act 0/CH.0 DEATH\|CH.0 DEATH]]
 	[[Timeline/GEOSINIA/Act 0/CH.1 THE HEART OF FORTUNA\|CH.1 THE HEART OF FORTUNA]]
 	[[Timeline/GEOSINIA/Act 0/CH.2 THE ATLAN\|CH.2 THE ATLAN]]
 	[[Timeline/GEOSINIA/Act 0/CH.3 STARBOUND\|CH.3 STARBOUND]]
