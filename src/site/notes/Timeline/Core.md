@@ -33,10 +33,11 @@ No matter what, find a reason to live.
 	[[Timeline/GEOSINIA/Act 1/CH.6 CAVERN\|CH.6 CAVERN]]
 	[[Timeline/GEOSINIA/Act 1/CH.7 ASTRAL\|CH.7 ASTRAL]]
 	[[Timeline/GEOSINIA/Act 1/CH.8 THE SEA\|CH.8 THE SEA]]
-	[[Timeline/GEOSINIA/Act 2/CH.9 BOUND\|CH.9 BOUND]]
-	[[Timeline/GEOSINIA/Act 2/CH.10 EXPERIMENT\|CH.10 EXPERIMENT]]
+
 
 ###### ACT 2
+	[[Timeline/GEOSINIA/Act 2/CH.9 BOUND\|CH.9 BOUND]]
+	[[Timeline/GEOSINIA/Act 2/CH.10 EXPERIMENT\|CH.10 EXPERIMENT]]
 	[[Timeline/GEOSINIA/Act 2/CH.11 INCIDENT\|CH.11 INCIDENT]]
 	[[Timeline/GEOSINIA/Act 2/CH.12 LIFE\|CH.12 LIFE]]
 	[[Timeline/GEOSINIA/Act 2/CH.13 GRIEF\|CH.13 GRIEF]]
