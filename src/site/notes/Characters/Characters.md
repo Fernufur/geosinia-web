@@ -26,7 +26,7 @@ Every character in Geosinia
 	[[Characters/Secondary/C. Scientist 2\|C. Scientist 2]]
 
 ###### [[Characters/Background characters\|Background characters]]
-	[[Characters/Studio/C. Justin\|C. Justin]]
+	
 
 ###### [[Characters/Cameo\|Cameo]]
 	[[Characters/Cameo/C. Smoka\|C. Smoka]]
