@@ -2,8 +2,13 @@
 {"dg-publish":true,"permalink":"/characters/characters/"}
 ---
 
+
+---
+# CHARACTERS
+
 Every character in Geosinia
 
+---
 ###### [[Characters/Main characters\|Main characters]]
 	[[Characters/Main/C. Azeal\|C. Azeal]]
 	[[Characters/Main/C. AZ\|C. AZ]]
