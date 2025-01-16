@@ -8,3 +8,4 @@
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
 }
+npm i @vercel/analytics
