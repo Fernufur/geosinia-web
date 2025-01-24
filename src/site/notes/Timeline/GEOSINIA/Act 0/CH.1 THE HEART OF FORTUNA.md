@@ -15,7 +15,21 @@ T. = technology
 LN. = language
 SP. = species
 
+
+## Formats
 ---
+### Comic Pages
+
+
+
+---
+### Animation
+
+
+
+
+---
+### Written (simplified)
 
 "The [[Technology/Transportation/T. Intershot\|T. Intershot]]. The revolutionary transportation line between planets, connecting the peoples from [[Locations/2nd plane/Fortuna/L. Fortuna\|L. Fortuna]] to as far as [[Locations/2nd plane/Irene/L. Irene\|L. Irene]]. Do you need to get to another planet? Take one of our lines depending on what your intent is, need a vacation? takes one of our lines to the [[Locations/2nd plane/Fortuna/Continents/Aurelia/L. Fortunian Grand Ridge\|L. Fortunian Grand Ridge]]. Taking a research trip? Use our private lines meant for certain activities. Are you immigrating? We have lines for that!" The passenger TV drones, playing a mix of ads and videos about the Intershot itself on loop.
 *Its been 6 hours of mostly being locked to this chair, requiring permission to get up no matter what the reason is. I've never been this still for this long.*
@@ -53,33 +67,111 @@ The racist remarks continue as the worker gets more visibly annoyed the longer t
 "WHAT?? We were cleared for boarding, and-" The first stranger tries to combat the statement before being cut off.
 "Both of you, come here." Being intimidated the two eventually comply.
 
-*Who is this? He's taking the other two into the center corridor.*
+*Who is this? He's taking the other two into the corridor.*
 
 'PLEASE ENSURE SECUREMENT AND PREPARE FOR SKYBREAK' The announcements blared and to the horror of the two strangers they were outside of the capsule and unsecured.
 
 
 "What about our intent!? We're just travelling back to Fortuna!" They were getting anxious due to not being in a safe position out of their chairs. "We need to get back in our chairs!"
-"Wait." The word 'SKYBREAK' show on all the announcement screens and the the cat just grabbed the floor to ceiling railing. "Have fun"
+"Wait." The word 'SKYBREAK' show on all the announcement screens and the the cat just grabbed the vertical railing. "Have fun"
 
 The arm holding the craft starts to spin increasing in speed over time, the spin pulls the two strangers to the back wall in the corridor compressing their bodies against it. The cat stands still, unaffected by the situation, **char 1** stares in disbelief questioning what just happened and how he just stood there. The cat waved to Azeal before walking into the capsule, he sat down and unruffled his suit.
 
-"I don't excuse racism" He spoke in [[Languages/LN. Ire\|LN. Ire]] this time so Azeal could fully understand him. *He can speak Ire??* "Oh right, I'm [[Characters/Anomalies/C. Val\|C. Val]]. Don't tell anyone but [[Characters/Anomalies\|Anomalies]] like me exist."
+"I don't excuse racism" He spoke in [[Languages/LN. Ire\|LN. Ire]] this time so Azeal could fully understand him. *He can speak Ire??* "Oh right, I'm [[Characters/Anomalies/C. Val\|C. Val]]. Don't tell anyone but [[Characters/Anomalies\|Anomalies]] like me exist, not that you'll remember anyways."
 
 "What do you mean anomalies?" Azeal nervously questions Val hoping for an answer that he never gets.
-"Just watch out, and stay safe" Val walks out of the capsule after flicking the **char 1**'s forehead.
+"Just watch out, and stay safe" Val walks out of the capsule after flicking **char 1**'s forehead.
 
-The Intershot exits the atmosphere and starts speeding up to reach a cruising speed, while blood starts flowing down the center corridor. He looks around the corner to see a crumpled mass of flesh sliding off the wall at the end of the hall. The worker wakes back up and seems to have forgotten about the two and Val.
+The Intershot exits the atmosphere and reaches a cruising speed eventually, the announcements go off telling the passengers that they can exit their chairs and are free to move. the door to the pod depressurizes and lets blood seep under the door, He looks around the corner to see a crumpled mass of flesh sliding off the wall at the end of the hall. The worker wakes back up and seems to have forgotten about the two and Val.
 
 *Wait, where's the blood? the mass is gone too, how does that just disappear??*
-The corridor was now suddenly clean leaving no remnant of the corpses there previously. Azeal eventually goes back to looking out of the window after seemingly forgetting that something happened. As the view of Leukothea wanes [[Locations/2nd plane/Lux Nova\|Lux Nova]] comes into view. The star showing the day side of Leukothea and Fortuna in the distance.
+The corridor was now suddenly clean leaving no remnant of the corpses there previously. Azeal eventually goes back to looking out of the window after seemingly forgetting that anything happened. As the view of Leukothea wanes [[Locations/2nd plane/Lux Nova\|Lux Nova]] comes into view. The star showing the day side of Leukothea, and Fortuna in the distance.
 
-*I think i'll just rest until we land on Fortuna.*
+*I think I'll just rest until we land on Fortuna.*
 
-The hiss from the capsule door wakes up Azeal, as the door slides open light fills the space. For a couple seconds the only sight is the pure white light until eyes adjust.
+The hiss from the capsule door wakes up Azeal, as the door slides open light fills the space. For a couple seconds the only sight is the pure white light until his eye adjusts.
 
-The [[Locations/2nd plane/Fortuna/Continents/Celaris/Country 1/Province 1/Cities/Crest/L. Arc of Fortune\|L. Arc of Fortune]] station floor, Azeal climbs out and onto the platform seeing hundreds of people getting on or off the different intershot crafts. With the urge to wander and explore the area Azeal leaves the platform and enters the [[Locations/2nd plane/Fortuna/Continents/Celaris/Country 1/Province 1/Cities/Crest/L. Bankside\|L. Bankside]] district in the city [[Locations/2nd plane/Fortuna/Continents/Celaris/Country 1/Province 1/Cities/L. Teinsk\|L. Teinsk]], leaving **char 1** behind.
+The [[Locations/2nd plane/Fortuna/Continents/Celaris/Country 1/Province 1/Cities/Crest/L. Arc of Fortune\|L. Arc of Fortune]] station floor, Azeal climbs out and onto the platform seeing hundreds of people getting on or off the different intershot stations. With the urge to wander and explore the area Azeal leaves the platform and enters the [[Locations/2nd plane/Fortuna/Continents/Celaris/Country 1/Province 1/Cities/Crest/L. Bankside\|L. Bankside]] district in the city [[Locations/2nd plane/Fortuna/Continents/Celaris/Country 1/Province 1/Cities/L. Teinsk\|L. Teinsk]], leaving **char 1** behind.
+
+Using the sensitivity from the faint wind Azeal heads towards an exit, going through corridors and lobbies before finding a staircase leading up to the city. It's around midday in Teinsk and the light fills Azeal's eye disorienting him, leading him to mindlessly wander streets and alleys. The seemingly constant bombardment of stimulation coming from signs, decorations, and people start making Azeal panic, The chaos grows louder and more intense the longer he stays. Azeal starts running. Running past buildings and streets, pushing his way through people, stumbling over objects in the pathways. Falling over and over, each time getting up and changing direction trying to get away from all the noise. After seemingly hours of running away the noise and lights start to fade out, and the sight of an empty park comes into view. a small field with trees dotted around the edges, the small hill that its on sloping down to the small promenade against the riverbank.
+
+*It's calm. No ones here.*
+
+Azeal slowly walks closer to the promenade, looking at the trees rustle in the wind. The soft creaking of the wood promenade with each step, looking out to the water as it flows and ripples against the bank and feeling the soft whistle of the wind. Bubbles start emerging from the edge of the water, Azeal fails to notice until someone comes out of the water. They walk onto the bank and climb up to the promenade, reaching out their hand to Azeal. Azeal flinches and backs away stumbling and losing their footing, they catch him and stand him back up.
+
+*I didn't burn them?? I thought everyone here couldn't touch me.*
+
+"Sorry if i startled you man, you ok?" They tried getting a response out of Azeal but with no luck. He moves closer into the light so Azeal could see him properly, showing a rather slim grey shark covered in glowing blue markings. "Oh crap, is the no clothes thing messing with you?" frantically trying to apologize. "Wait." He started looking more closely and examining Azeal but the waning starlight isn't helping.
+"You're one of the- what was it called, OH right! They set up a line to Irene, that's where you're from right?" Showing clear excitement and starting to pace around and mumbling to himself just out of earshot.
+
+"M-me Az-Azeal." The response was broken and quiet, being only the third time trying to speak Elnish and his new name, Azeal was scared. The tension weighed on him, seeming to wait forever for any kind of reaction.
+"So Azeal, why are you way out here?" Waiting for a response but only to the sight of Azeal's confusion. "right- you don't know Elnish." 
+
+They go to sit on the edge of the promenade and leads Azeal to the water
+"You've never seen water before have you?"
+*Are they trying to tell me what this is.*
+"It's water." pointing at the river.
+"Wa-whatr." Azeal tries to repeat the word to minimal success.
+AZ snickers and says it slower "W a t e r"
+"Watur" *I'm not getting it am I?*
+"Close enough." Smiling at him "You'll learn eventually."
+Azeal climbs down the promenade and crouches next to the river, reaching to touch the water. 
+"Hey you shouldn't get your jacket soaked." Following after Azeal "I don't know if you could get sick from wearing it" Reaching and suddenly pulls the jacket off and falling to the ground.
+*Am I not supposed to wear it now?*
+"Wha- how did" He looks up to see the stick-like figure of Azeal's body, of the strands of metal wrapping around each other forming his body. "Woah..."
+*Can i just walk into it?*
+Azeal steps towards the water and prepares to step foot in the river
+"WAIT! I DON'T THINK YOU SHOULD-" He jumps to Azeal and grabs his arm to pull him back before burning his hand and yanking his arm away.
+The shock caused Azeal to put most of his leg in the water, petrifying his leg and preventing him from moving. His body falls in more as the water cools down and solidifies his body, with his smoke fading and body shutting down as he falls completely in the river.
+
+*I CAN'T MOVE! WHY CAN'T I MO-*
+
+"AZEAL!!" Picking himself back up from the ground and diving into the river looking for Azeal. The lack of light making it difficult to clearly see Azeal's body, it wasn't until one of the arms scratched at his leg that he noticed. He swam back up and pulled Azeal back onto the ground. The seemingly lifeless cold metal sitting on the ground frozen in the same pose he fell into the river.
+"WHAT HAPPENED?? WHAT AM I SUPPOSED TO DO?" Panic sets in for him, not knowing anything about what Azeal is and how to help. After rounds of worried speech and frantic attempts to wake him up he moves back, on the verge of giving up and accepting that he just killed someone. The weak sound of a hiss coming from Azeal's chest catches his attention, he looks through the cracks in between the metal and sees liquid flowing around. An idea comes to mind.
+"Do I have to heat you up? Your body was really hot before." He runs back up to the park to a tree off to the side. "Surely I brought my lighter today.." He rummages through a bag that was hung on one of the branches. "GOT IT." He takes the bag and stumbles off of the tree, getting back up and running to Azeal. Small amounts of steam were giving off from Azeal's chest, pulling out random scraps of paper from his bag and and crumpling them. Setting the papers on Azeal and making the fire bigger, the grey steam slowly started turning back into a whiteish blue as the metal heated up and started to move slightly. 
+"Come on." The fire brings Azeal's core back to a working temperature and it starts to radiate even hotter than the fire, and moving that heat to Azeal's limbs.
+
+*AAHHHHHHH!!*
+
+Azeal seemingly wakes up and reaches for his chest while the shark got up to get his jacket. The sound of sirens start to fade in and lights can be seen in the distance.
+"Here's your jacket, or whatever it is." The shark hands the jacket to Azeal as someone on a bike stops next to the park "Oh yeah, my name's-"
+"[[Characters/Main/C. AZ\|C. AZ]]!!" The other person yells across the park and starts walking towards the two of them.
+"Yo [[Characters/Secondary/C. Eddie\|C. Eddie]]! So who called on me this time?" AZ waving his arm at Eddie and walking towards him. "Was it that old bastard again?"
+"No. Some lady across said that 'someone' pulled something out of the river and started burning it." Eddie handing him the report slip.
+"I mean... I did just pull them out." AZ pointed at Azeal.
+"And you set him on fire.." Eddie looked at AZ like he's stupid.
+"As far as I know, he's from Irene. I didn't know that they can't touch water."
+"...You- ugh, my team is stupid. We've been looking for him for like 3 hours at this point, but we went south instead."
+"Once again I did your job for you. The fourth time now?"
+"Shut up AZ."
+Azeal walked up to them confused.
+"So Azeal.. I was supposed to take you to get checked in with **char 1** but he said you ran away at the station." Eddie then turned back to AZ "Do you have your bike? Mine's just a one seater."
+"Yeah I have it at the rack."
+"I'll get a temp mat for Azeal"
+Both Eddie and AZ try to sign for Azeal to follow AZ.
+*I go with him?* while pointing at AZ.
+"Yeah." Eddie nods back.
+*Nodding is yes right? I'll trust it.*
+
+AZ takes Azeal to a small wall with racks on it with one of them being taken up by a folded motorbike. 
+
+
+
 
 ---
+### Written (final)
 
-Next chapter
+
+
+
+---
+## Extra
+
+###### TF You Mean TLDR!?
+he dies in the end...
+
+Azeal leaves his planet hoping for opportunity and gets his first taste of racism towards him, he gets lost in one of the biggest cities ever made and meets AZ who helps lead him around, before getting found and being brought to his specialized housing. Eventually being told how to start adjusting to the new lifestyle.
+
+---
+# Next chapter
 [[Timeline/GEOSINIA/Act 0/CH.2 THE ATLAN\|CH.2 THE ATLAN]]

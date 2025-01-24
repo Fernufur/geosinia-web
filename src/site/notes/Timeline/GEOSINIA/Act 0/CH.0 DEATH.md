@@ -11,7 +11,21 @@ The opening sequence.
 C. = character
 L. = location
 
+
+## Formats
 ---
+### Comic Pages
+
+
+
+---
+### Animation
+
+
+
+
+---
+### Written (simplified)
 
 Inside of the [[Locations/3rd plane/L. Reliquary\|L. Reliquary]],
 [[Characters/Main/C. Fern\|C. Fern]] battered and laid on the floor while [[Characters/Main/C. AZ\|C. AZ]] panics to close her wounds, the sight of [[Characters/Main/C. Astra\|C. Astra]]'s death with his limbs torn away and body thrown to the side, with [[Characters/Main/C. Azeal\|C. Azeal]] frozen in place. [[Characters/Main/C. XVII (Seth)\|C. XVII (Seth)]] launches himself towards [[Characters/Relics/C. Rociv\|C. Rociv]]
@@ -34,6 +48,20 @@ The torn limb is thrown at Rociv and combusts acting like a flare, burning a bli
 "GLORY TO GEOS-" Azeal's core is crushed in Rociv's hand, killing him.
 
 ---
+### Written (final)
 
-Next chapter 
+
+
+
+___
+## Extra
+
+###### TF You Mean TLDR!?
+It's not even that long just read it.
+
+Epic fight, Astra and Azeal die.
+
+
+---
+# Next chapter 
 [[Timeline/GEOSINIA/Act 0/CH.1 THE HEART OF FORTUNA\|CH.1 THE HEART OF FORTUNA]]

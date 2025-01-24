@@ -45,5 +45,5 @@ Every character in Geosinia
 	[[Characters/Anomalies/C. Val\|C. Val]]
 
 ###### [[Characters/Studio\|Studio]]
-	[[Characters/Studio/C. Justin\|C. Justin]]
+	[[Characters/Studio/C. Antonio\|C. Antonio]]
 	[[Characters/Studio/C. Dylan\|C. Dylan]]
