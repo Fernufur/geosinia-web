@@ -7,7 +7,7 @@
 # CH.1 THE HEART OF FORTUNA
 
 exposition part 1.
-###### key
+##### key
 C. = character
 L. = location
 S. = system
@@ -141,7 +141,7 @@ Azeal seemingly wakes up and reaches for his chest while the shark got up to get
 "I mean... I did just pull them out." AZ pointed at Azeal.
 "And you set him on fire.." Eddie looked at AZ like he's stupid.
 "As far as I know, he's from Irene. I didn't know that they can't touch water."
-"...You- ugh, my team is stupid. We've been looking for him for like 3 hours at this point, but we went south instead."
+"...You- ugh, my team is stupid. We've been looking for him for like 3 hours[^1] at this point, but we went south instead."
 "Once again I did your job for you. The fourth time now?"
 "Shut up AZ."
 Azeal walked up to them confused.
@@ -167,11 +167,16 @@ AZ takes Azeal to a small wall with racks on it with one of them being taken up 
 ---
 ## Extra
 
-###### TF You Mean TLDR!?
+##### TF You Mean TLDR!?
 he dies in the end...
 
 Azeal leaves his planet hoping for opportunity and gets his first taste of racism towards him, he gets lost in one of the biggest cities ever made and meets AZ who helps lead him around, before getting found and being brought to his specialized housing. Eventually being told how to start adjusting to the new lifestyle.
 
+
 ---
 # Next chapter
 [[Timeline/GEOSINIA/Act 0/CH.2 THE ATLAN\|CH.2 THE ATLAN]]
+
+
+
+[^1]: so hours, aka the regular time system, was used as a stylistic choice because since this is a directed reality the director wishes to still have some resemblance to the real world so viewers are more likely to understand the story.
