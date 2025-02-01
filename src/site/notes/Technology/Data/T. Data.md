@@ -1,3 +1,0 @@
-
-[[T. Codex]]
-[[T. Atlan]]
