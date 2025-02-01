@@ -1,2 +1,0 @@
-[[R. Irenese]]
-[[SP. Metalin]]
