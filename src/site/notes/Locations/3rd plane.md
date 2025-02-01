@@ -1,3 +1,0 @@
-
-[[L. Molds]]
-[[L. Reliquary]]
