@@ -1,2 +1,0 @@
-[[R. Ixionian]]
-[[SP. Balotl]]
