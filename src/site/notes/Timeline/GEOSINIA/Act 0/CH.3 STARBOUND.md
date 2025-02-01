@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/timeline/geosinia/act-0/ch-3-starbound/"}
+dg-publish: true
 ---
-
 
 ---
 # CH.3 STARBOUND
@@ -54,4 +53,4 @@ Given that Azeal's body cant touch or interact with most things, he searches for
 
 ---
 # Next chapter
-[[Timeline/GEOSINIA/Act 1/CH.4 GATES OF VARDA\|CH.4 GATES OF VARDA]]
+[[CH.4 GATES OF VARDA]]

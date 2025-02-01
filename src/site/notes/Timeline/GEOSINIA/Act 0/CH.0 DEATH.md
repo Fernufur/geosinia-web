@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/timeline/geosinia/act-0/ch-0-death/"}
+dg-publish: true
 ---
-
 
 ___
 # CH.0 DEATH
@@ -27,8 +26,8 @@ L. = location
 ---
 ### Written (simplified)
 
-Inside of the [[Locations/3rd plane/L. Reliquary\|L. Reliquary]],
-[[Characters/Main/C. Fern\|C. Fern]] battered and laid on the floor while [[Characters/Main/C. AZ\|C. AZ]] panics to close her wounds, the sight of [[Characters/Main/C. Astra\|C. Astra]]'s death with his limbs torn away and body thrown to the side, with [[Characters/Main/C. Azeal\|C. Azeal]] frozen in place. [[Characters/Main/C. XVII (Seth)\|C. XVII (Seth)]] launches himself towards [[Characters/Relics/C. Rociv\|C. Rociv]]
+Inside of the [[L. Reliquary]],
+[[C. Fern]] battered and laid on the floor while [[C. AZ]] panics to close her wounds, the sight of [[C. Astra]]'s death with his limbs torn away and body thrown to the side, with [[C. Azeal]] frozen in place. [[C. XVII (Seth)]] launches himself towards [[C. Rociv]]
 
 "Do you have no respect for life!?" Seth muttered.
 "He was a thief, stealing the gift from OUR father. He was nothing, now he's even more worthless." Rociv exclaimed.
@@ -45,7 +44,7 @@ The torn limb is thrown at Rociv and combusts acting like a flare, burning a bli
 
 "Your little party tricks mean nothing." Rociv shatters the blade and reaches to crush Seth's leg. "I'm sorry everyone." Azeal mumbles before unlatching his armor and shattering every acid filled capsule he had, he grabs Rociv as his body fuels a massive explosion. He recovers from the blast and charges at Rociv still set ablaze, while his body burns away he stabs at his chest with his mind racing.
 
-"GLORY TO GEOS-" Azeal's core is crushed in Rociv's hand, killing him.
+"GLORY TO-" Azeal's core is crushed in Rociv's hand, killing him.
 
 ---
 ### Written (final)
@@ -64,4 +63,4 @@ Epic fight, Astra and Azeal die.
 
 ---
 # Next chapter 
-[[Timeline/GEOSINIA/Act 0/CH.1 THE HEART OF FORTUNA\|CH.1 THE HEART OF FORTUNA]]
+[[CH.1 THE HEART OF FORTUNA]]

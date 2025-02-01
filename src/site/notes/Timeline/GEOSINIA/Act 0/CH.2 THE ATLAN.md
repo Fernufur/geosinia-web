@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/timeline/geosinia/act-0/ch-2-the-atlan/"}
+dg-publish: true
 ---
-
 
 ---
 # CH.2 THE ATLAN
@@ -58,4 +57,4 @@ After 8 months Azeal has had some adjusting and can speak a broken version of El
 
 ---
 # Next chapter
-[[Timeline/GEOSINIA/Act 0/CH.3 STARBOUND\|CH.3 STARBOUND]]
+[[CH.3 STARBOUND]]
