@@ -1,3 +1,0 @@
-
-[[C. Rociv]]
-[[C. Carovi]]
