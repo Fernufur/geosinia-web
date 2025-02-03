@@ -13,7 +13,7 @@ Every canon story in chronological order
 3. [[Timeline/REVISION/REVISION\|REVISION]] [*]
 4. [[Timeline/CARTRIDGE/CARTRIDGE\|CARTRIDGE]] [*]
 5. [[Timeline/VALOR/VALOR\|VALOR]]
-6. [[Timeline/SANGUINE/SANGUINE\|SANGUINE]] **[*]**
+6. **[[Timeline/SANGUINE/SANGUINE\|SANGUINE]] [*]**
 7. [[Timeline/LINEAGE/LINEAGE\|LINEAGE]]
 8. [[Timeline/REASON/REASON\|REASON]] [*]
 9. [[Timeline/WISH/WISH\|WISH]]
