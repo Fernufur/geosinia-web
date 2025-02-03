@@ -6,6 +6,10 @@
 ---
 # GEOSINIA
 
+GEOSINIA being a massive multi-media creative project.
+
+---
+## Stories
 Every canon story in chronological order
 
 1. ~~[[Timeline/LOST/LOST\|LOST]]~~
@@ -20,7 +24,6 @@ Every canon story in chronological order
 10. [[Timeline/OCEAN/OCEAN\|OCEAN]] [*]
 11. [[Timeline/EXPERIENCE/FREEDOM\|FREEDOM]]
 
-
 ---
 #### Pages
 [[Characters/Characters\|Characters]]
@@ -28,8 +31,6 @@ Every canon story in chronological order
 [[History/History\|History]]
 [[Systems/Systems\|Systems]]
 [[Technology/Technology\|Technology]]
-
-
 
 ---
 Official discord server

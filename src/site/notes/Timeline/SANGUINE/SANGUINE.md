@@ -10,7 +10,7 @@ With the account of Azeal you follow his perspective of meeting others, grow and
 No matter what, find a reason to live.
 
 ---
-SANGUINE being a multi-media creative project. (Animated show, comic series, and book)
+SANGUINE being an animated show, comic series, and book.
 
 ---
 ## Story
