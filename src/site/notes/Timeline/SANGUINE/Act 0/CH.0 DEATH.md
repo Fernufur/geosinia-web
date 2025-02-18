@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/timeline/sanguine/act-0/ch-0-death/"}
 ---
+
 
 ___
 # CH.0 DEATH
@@ -55,11 +56,13 @@ The torn limb is thrown at Rociv and combusts acting like a flare, burning a bli
 ___
 ## Extra
 
-###### TF You Mean TLDR!?
+##### TF You Mean TLDR!?
 It's not even that long just read it.
 
 Epic fight, Astra and Azeal die.
 
+##### Tags
+#SANGUINE 
 
 ---
 # Next chapter 

@@ -171,11 +171,11 @@ The speed startles Azeal as he grabs the sides of the bike to keep himself on.
 AZ looks back and notices "Is 25 too fast for him?"
 "I mean its probably the fastest he's ever gone"
 "Hmm... yeah the Intershot wouldn't really count."
-AZ slows down before turning into a busy road, people and bikes fill the road almost putting him to a full stop. "Damn, we'll probably have to get off-"
+AZ slows down before turning into a busy road, people fill the road almost putting him to a full stop. "Damn, we'll probably have to get off-"
 "Looks like I am turning my lights on.." Eddie starts moving in front of AZ.
 "Eddie don't. We can just get off and walk."
 "I don't have time to walk, he's supposed to already be checked in and getting his housing set up."
-"Stay on your bike then. I'm not riding my bike in a shopping street."
+"Stay on your bike then. I'm not riding my bike in a busy street."
 Azeal watches as the two argue back and forth, leading to AZ getting off his bike and signaling him to get off too. "Come on Azeal, Eddie is going on his own."
 Azeal gets off the bike and grabs the mat, AZ takes the key and disc out before folding the bike, He holds it against his shoulder as he walks.
 *There's so many people...*

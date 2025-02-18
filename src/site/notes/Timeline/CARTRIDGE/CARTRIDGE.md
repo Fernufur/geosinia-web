@@ -14,6 +14,12 @@ CARTRIDGE being a linear story-based game.
 ---
 ## Story
 
+###### Prologue
+[[Timeline/CARTRIDGE/P. AWAKE\|P. AWAKE]]
+
+###### Sector 1
+	[[Timeline/CARTRIDGE/Sector 1/CH.1 TEST\|CH.1 TEST]]
+
 
 ---
 ## Extra
