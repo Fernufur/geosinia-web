@@ -10,11 +10,11 @@ Every character in GEOSINIA
 
 ---
 ###### [[Characters/Main characters\|Main characters]]
-	[[C. Mateo\|C. Mateo]]
-	[[C. AZ\|C. AZ]]
-	[[C. Astra\|C. Astra]]
-	[[C. Fern\|C. Fern]]
-	[[C. XVII\|C. XVII]]
+	[[Characters/Main/Mateo\|Mateo]]
+	[[Characters/Main/AZ\|AZ]]
+	[[Characters/Main/Astra\|Astra]]
+	[[Characters/Main/Fern\|Fern]]
+	[[Characters/Main/Seth\|Seth]]
 
 ###### [[Characters/Side characters\|Side characters]]
 	[[C. Ceren\|C. Ceren]]
