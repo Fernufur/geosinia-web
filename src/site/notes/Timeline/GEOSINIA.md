@@ -21,8 +21,8 @@ Every canon story in chronological order
 7. [[Timeline/LINEAGE/LINEAGE\|LINEAGE]]
 8. [[Timeline/REASON/REASON\|REASON]] [*]
 9. [[Timeline/WISH/WISH\|WISH]]
-10. [[Timeline/OCEAN/OCEAN\|OCEAN]] [*]
-11. [[Timeline/FREEDOM/FREEDOM\|FREEDOM]]
+10. [[Timeline/OCEAN/OCEAN\|OCEAN]]
+11. **[[Timeline/START/START\|START]] [!]**
 
 ---
 ## Pages
@@ -34,4 +34,4 @@ Every canon story in chronological order
 
 ---
 Official discord server
-oh hell nah
+Not rn

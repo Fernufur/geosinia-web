@@ -10,23 +10,25 @@ Every character in GEOSINIA
 
 ---
 ###### [[Characters/Main characters\|Main characters]]
-	[[Characters/Main/C. Azeal\|C. Azeal]]
-	[[Characters/Main/C. AZ\|C. AZ]]
-	[[Characters/Main/C. Astra\|C. Astra]]
-	[[Characters/Main/C. Fern\|C. Fern]]
+	[[C. Mateo\|C. Mateo]]
+	[[C. AZ\|C. AZ]]
+	[[C. Astra\|C. Astra]]
+	[[C. Fern\|C. Fern]]
 	[[C. XVII\|C. XVII]]
 
 ###### [[Characters/Side characters\|Side characters]]
-	[[Characters/Side/C. Ceren\|C. Ceren]]
+	[[C. Ceren\|C. Ceren]]
 	[[Characters/Side/C. Zeta\|C. Zeta]]
 	[[Characters/Side/C. Sela\|C. Sela]]
 	[[Characters/Side/C. Dallas\|C. Dallas]]
+	[[Characters/Side/Jess\|Jess]]
+	[[Mila\|Mila]]
 	
 
 ###### [[Characters/Secondary characters\|Secondary characters]]
 	[[Characters/Secondary/C. Zeko\|C. Zeko]]
 	[[Characters/Secondary/C. Kot\|C. Kot]]
-	[[Characters/Secondary/C. Elaine\|C. Elaine]]
+	[[C. Elaine\|C. Elaine]]
 	[[Characters/Secondary/C. Scientist 1\|C. Scientist 1]]
 	[[Characters/Secondary/C. Scientist 2\|C. Scientist 2]]
 
@@ -41,9 +43,9 @@ Every character in GEOSINIA
 	[[Characters/Relics/C. Rociv\|C. Rociv]]
 
 ##### [[Characters/Anomalies\|Anomalies]]
-	[[Characters/Anomalies/C. Korva\|C. Korva]]
+	[[C. Korva\|C. Korva]]
 	[[Characters/Anomalies/C. Val\|C. Val]]
 
 ###### [[Characters/Studio\|Studio]]
-	[[Characters/Studio/C. Antonio\|C. Antonio]]
+	[[Characters/Studio/C. Azeal\|C. Azeal]]
 	[[Characters/Studio/C. Dylan\|C. Dylan]]

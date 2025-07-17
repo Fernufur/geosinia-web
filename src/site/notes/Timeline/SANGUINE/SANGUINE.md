@@ -5,28 +5,27 @@
 ---
 # SANGUINE
 
-With the account of Azeal you follow his perspective of meeting others, grow and cherish the people around him, while healing from both his past and current life. Through 24 chapters the main cast, Azeal, AZ, Fern, Seth, and Astra tell a story of healing, connection and identity being told across 4 planets and 3 planes of existence, all in under 4 years.
 
-No matter what, find a reason to live.
+
 
 ---
-SANGUINE being an animated show, comic series, and book.
+SANGUINE being an animated show and book.
 
 ---
 ## Story
 
-[[Timeline/SANGUINE/Act 0/CH.0 DEATH\|CH.0 DEATH]]
+[[Timeline/SANGUINE/Act 0/CH.0 STARS\|CH.0 STARS]]
 ###### ACT 0
-	[[Timeline/SANGUINE/Act 0/CH.1 THE HEART OF FORTUNA\|CH.1 THE HEART OF FORTUNA]]
-	[[Timeline/SANGUINE/Act 0/CH.2 THE ATLAN\|CH.2 THE ATLAN]]
-	[[Timeline/SANGUINE/Act 0/CH.3 STARBOUND\|CH.3 STARBOUND]]
+	[[Timeline/SANGUINE/Act 0/CH.1 AMBITIONS\|CH.1 AMBITIONS]]
+	[[Timeline/SANGUINE/Act 0/CH.2 SKYBREAK\|CH.2 SKYBREAK]]
+	[[Timeline/SANGUINE/Act 0/CH.3 TUNNELS\|CH.3 TUNNELS]]
 
 ###### ACT 1
-	[[Timeline/SANGUINE/Act 1/CH.4 GATES OF VARDA\|CH.4 GATES OF VARDA]]
-	[[Timeline/SANGUINE/Act 1/CH.5 PASSAGE\|CH.5 PASSAGE]]
-	[[Timeline/SANGUINE/Act 1/CH.6 CAVERN\|CH.6 CAVERN]]
-	[[Timeline/SANGUINE/Act 1/CH.7 ASTRAL\|CH.7 ASTRAL]]
-	[[Timeline/SANGUINE/Act 1/CH.8 THE SEA\|CH.8 THE SEA]]
+	[[CH.4 GATES OF VARDA\|CH.4 GATES OF VARDA]]
+	[[CH.5 PASSAGE\|CH.5 PASSAGE]]
+	[[CH.6 CAVERN\|CH.6 CAVERN]]
+	[[CH.7 ASTRAL\|CH.7 ASTRAL]]
+	[[CH.8 THE SEA\|CH.8 THE SEA]]
 
 
 ###### ACT 2
