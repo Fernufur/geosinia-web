@@ -27,9 +27,8 @@ Every canon story in chronological order
 ---
 ## Pages
 - [[Characters/Characters\|Characters]]
-- [[Locations/Places\|Places]]
 - [[History/History\|History]]
-- [[Systems/Systems\|Systems]]
+- [[Locations/Places\|Places]]
 - [[Technology/Technology\|Technology]]
 
 ---

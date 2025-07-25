@@ -57,4 +57,4 @@ Given that Azeal's body cant touch or interact with most things, he searches for
 
 ---
 # Next chapter
-[[Timeline/SANGUINE/Act 1/CH.4\|CH.4]]
+[[Timeline/SANGUINE/Act 0/CH.4\|CH.4]]
